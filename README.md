@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkashDT
+- 👋 Hi, I’m @AkashT
 - 👀 I’m interested in exploring new technologies and innovative solutions.
 - 🌱 I’m currently learning Deep Learning (DL).
 - 💞️ I’m looking to collaborate on AI and ML projects.
